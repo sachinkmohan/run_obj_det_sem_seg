@@ -1,0 +1,7 @@
+#  ignoring hidden files
+.git
+.idea
+.gitattributes
+ 
+# adding folders
+__pycache__
